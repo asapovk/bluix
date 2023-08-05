@@ -1,2 +1,2 @@
-# mgkroui
-Magokoro ui-kit  for react
+# bluix
+Blue ui-kit for roothx and react
